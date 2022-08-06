@@ -5,5 +5,6 @@ namespace modulo2
     {
         public string Foo { get; set; }
         public string Bar { get; set; }
+        public string Lorem { get; set; }
     }
 }
